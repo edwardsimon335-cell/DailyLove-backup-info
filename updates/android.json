@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 6,
-    "versionName": "0.3.0",
+    "versionCode": 10,
+    "versionName": "0.3.1",
     "notes": {
-      "zh": "密码及确认密码可独立显示或隐藏；优化旧账号验证后的登录提示和找回密码入口。",
-      "en": "Reveal or hide each password independently. Clearer guidance and password recovery after email verification."
+      "zh": "设置抽屉标题固定显示，完善分组和分隔线；情绪记录固定双方可见；优化邀请流程，安装包缩小约 79%。",
+      "en": "Pinned Settings header and clearer groups; moods are always shared with your partner. Improved invitations and an APK about 79% smaller."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.0-build.6/DailyLove-0.3.0-build6-arm64.apk",
-    "sha256": "6e0777cc807e1044febcf5f28f8cdde5908524b6498e8f6ad276403d3009f30c"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.1/DailyLove-0.3.1-build10-arm64.apk",
+    "sha256": "3dfa45fd43855521569db303bb13e35646959b34892f2994df475f4e295ae2fe"
   }
 }
