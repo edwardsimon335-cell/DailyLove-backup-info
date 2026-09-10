@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 5,
+    "versionCode": 6,
     "versionName": "0.3.0",
     "notes": {
-      "zh": "开屏缩短为两秒，品牌图标淡入淡出。新增应用内更新提醒与手动检查更新。",
-      "en": "A two-second launch screen with a fading brand mark, plus in-app update reminders and manual update checks."
+      "zh": "密码及确认密码可独立显示或隐藏；优化旧账号验证后的登录提示和找回密码入口。",
+      "en": "Reveal or hide each password independently. Clearer guidance and password recovery after email verification."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.0/DailyLove-0.3.0-arm64.apk",
-    "sha256": "318aacb2c137256b70cd2a23ed2bdc4644b6ad3f4ae4be9140f50c28725664fb"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.0-build.6/DailyLove-0.3.0-build6-arm64.apk",
+    "sha256": "6e0777cc807e1044febcf5f28f8cdde5908524b6498e8f6ad276403d3009f30c"
   }
 }
