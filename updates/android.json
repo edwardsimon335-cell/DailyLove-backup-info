@@ -1,0 +1,18 @@
+{
+  "mock": {
+    "applicationId": "com.twinbloom.app",
+    "channel": "mock",
+    "versionCode": 4,
+    "versionName": "0.3.0",
+    "notes": {"zh": "新增应用内更新提醒与设置中的检查更新入口。", "en": "Adds in-app update reminders and a manual update check in Settings."},
+    "downloadUrl": null
+  },
+  "production": {
+    "applicationId": "com.twinbloom.app",
+    "channel": "production",
+    "versionCode": 0,
+    "versionName": "0.3.0",
+    "notes": {"zh": "正式版尚未发布。", "en": "No public release yet."},
+    "downloadUrl": null
+  }
+}
