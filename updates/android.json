@@ -4,15 +4,22 @@
     "channel": "mock",
     "versionCode": 4,
     "versionName": "0.3.0",
-    "notes": {"zh": "新增应用内更新提醒与设置中的检查更新入口。", "en": "Adds in-app update reminders and a manual update check in Settings."},
+    "notes": {
+      "zh": "新增应用内更新提醒与设置中的检查更新入口。",
+      "en": "Adds in-app update reminders and a manual update check in Settings."
+    },
     "downloadUrl": null
   },
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 0,
+    "versionCode": 5,
     "versionName": "0.3.0",
-    "notes": {"zh": "正式版尚未发布。", "en": "No public release yet."},
-    "downloadUrl": null
+    "notes": {
+      "zh": "开屏缩短为两秒，品牌图标淡入淡出。新增应用内更新提醒与手动检查更新。",
+      "en": "A two-second launch screen with a fading brand mark, plus in-app update reminders and manual update checks."
+    },
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.0/DailyLove-0.3.0-arm64.apk",
+    "sha256": "318aacb2c137256b70cd2a23ed2bdc4644b6ad3f4ae4be9140f50c28725664fb"
   }
 }
