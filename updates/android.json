@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 10,
-    "versionName": "0.3.1",
+    "versionCode": 12,
+    "versionName": "0.4.0",
     "notes": {
-      "zh": "设置抽屉标题固定显示，完善分组和分隔线；情绪记录固定双方可见；优化邀请流程，安装包缩小约 79%。",
-      "en": "Pinned Settings header and clearer groups; moods are always shared with your partner. Improved invitations and an APK about 79% smaller."
+      "zh": "日历新增经期记录、逐日经量与下次经期预测，每次更正自动更新估计；可选伴侣共享和个人提醒。包含 0.3.2 的日记文字与图片回复。",
+      "en": "Adds period dates, daily flow and next-period estimates in Calendar, recalculated after every edit, with optional partner sharing and personal reminders. Includes the text and photo diary replies from 0.3.2."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.3.1/DailyLove-0.3.1-build10-arm64.apk",
-    "sha256": "3dfa45fd43855521569db303bb13e35646959b34892f2994df475f4e295ae2fe"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.0/DailyLove-0.4.0-build12-arm64.apk",
+    "sha256": "63e7eabdcb55b34c651b5c5d088837f53b46c1ae813f043373e7852fbf261cfd"
   }
 }
