@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 16,
+    "versionCode": 18,
     "versionName": "0.4.3",
     "notes": {
-      "zh": "小纸条正文与评论层级优化；个人资料支持选填生日；经期共享与伴侣代录权限分开，由女性本人授权。包含启动页数据准备及 VPN / 网络切换恢复优化。",
-      "en": "Clearer note and reply layout, optional profile birthdays, and separate owner-controlled permission for partner period recording. Includes startup loading and VPN / network-switch recovery improvements."
+      "zh": "小纸条增加手绘信纸背景；回复优先显示缓存、图片独立加载；经期入口常驻，未设置或未授权时显示操作提示；开屏仅保留加载动画。包含生日资料、女性授权伴侣代录及网络切换恢复优化。",
+      "en": "Hand-drawn stationery for notes, cached replies with independent image loading, a persistent period entry with setup and permission guidance, and a text-free startup loading indicator. Includes profile birthdays, owner-approved partner period recording, and network recovery improvements."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.3/DailyLove-0.4.3-build16-arm64.apk",
-    "sha256": "70800cdf462f96045a6d60e8804345942fb8833765d98be4f1dec749089b8319"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.3/DailyLove-0.4.3-build18-arm64.apk",
+    "sha256": "6dded257aefe3fe1b43b7136333ccce8eee85dde54ed02a6db659f2e4a282aaf"
   }
 }
