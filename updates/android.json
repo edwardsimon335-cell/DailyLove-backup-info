@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 13,
-    "versionName": "0.4.1",
+    "versionCode": 16,
+    "versionName": "0.4.3",
     "notes": {
-      "zh": "个人资料支持修改性别。经期统一归属情侣空间中的女性成员，男方经授权可协助记录；修改性别后同步调整共享与提醒，保留历史。",
-      "en": "Adds editable profile gender. Period tracking belongs to the female member in the couple space, with optional partner assistance. Gender changes update sharing and reminders while preserving history."
+      "zh": "小纸条正文与评论层级优化；个人资料支持选填生日；经期共享与伴侣代录权限分开，由女性本人授权。包含启动页数据准备及 VPN / 网络切换恢复优化。",
+      "en": "Clearer note and reply layout, optional profile birthdays, and separate owner-controlled permission for partner period recording. Includes startup loading and VPN / network-switch recovery improvements."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.1/DailyLove-0.4.1-build13-arm64.apk",
-    "sha256": "5e53570b62c7b70d055d49c814cbcd4e1fe0663bdf71057ebd0be4dc4dff3d22"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.3/DailyLove-0.4.3-build16-arm64.apk",
+    "sha256": "70800cdf462f96045a6d60e8804345942fb8833765d98be4f1dec749089b8319"
   }
 }
