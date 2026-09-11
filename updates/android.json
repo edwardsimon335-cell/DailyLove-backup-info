@@ -13,13 +13,13 @@
   "production": {
     "applicationId": "com.twinbloom.app",
     "channel": "production",
-    "versionCode": 12,
-    "versionName": "0.4.0",
+    "versionCode": 13,
+    "versionName": "0.4.1",
     "notes": {
-      "zh": "日历新增经期记录、逐日经量与下次经期预测，每次更正自动更新估计；可选伴侣共享和个人提醒。包含 0.3.2 的日记文字与图片回复。",
-      "en": "Adds period dates, daily flow and next-period estimates in Calendar, recalculated after every edit, with optional partner sharing and personal reminders. Includes the text and photo diary replies from 0.3.2."
+      "zh": "个人资料支持修改性别。经期统一归属情侣空间中的女性成员，男方经授权可协助记录；修改性别后同步调整共享与提醒，保留历史。",
+      "en": "Adds editable profile gender. Period tracking belongs to the female member in the couple space, with optional partner assistance. Gender changes update sharing and reminders while preserving history."
     },
-    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.0/DailyLove-0.4.0-build12-arm64.apk",
-    "sha256": "63e7eabdcb55b34c651b5c5d088837f53b46c1ae813f043373e7852fbf261cfd"
+    "downloadUrl": "https://github.com/edwardsimon335-cell/DailyLove-Android/releases/download/v0.4.1/DailyLove-0.4.1-build13-arm64.apk",
+    "sha256": "5e53570b62c7b70d055d49c814cbcd4e1fe0663bdf71057ebd0be4dc4dff3d22"
   }
 }
